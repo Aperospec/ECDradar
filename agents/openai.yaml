@@ -1,0 +1,4 @@
+interface:
+  display_name: "ECDradar"
+  short_description: "跨平台内容雷达：美国优先发现 AI 与热点，筛选加工、取得视频并交给 ECD"
+  default_prompt: "使用 $ecdradar，按当前项目已确认的运营原则，从美国为主的 X、Reddit、视频平台和媒体寻找值得做的内容，核验、前期加工，按需下载可获准使用的视频并整理成 ECD 选题包。"
